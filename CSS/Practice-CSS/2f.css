@@ -1,0 +1,31 @@
+a {
+    color: rgb(0, 113, 133);
+  }
+
+  .shop-description {
+    font-weight: bold;
+  }
+
+  .price-info {
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+  }
+
+  .add-tocart {
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border: none;
+    height: 25px;
+    width: 100px;
+    border-radius: 20px;
+  }
+
+  .buy-now {
+    background-color: rgb(255, 164, 28);
+    color: black;
+    border: none;
+    height: 25px;
+    width: 100px;
+    border-radius: 20px;
+    margin-left: 6px;
+  }
