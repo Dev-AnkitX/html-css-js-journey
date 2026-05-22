@@ -1,0 +1,42 @@
+.back-button{
+  padding: 8px 7px;
+  font-size: 16px;
+}
+.next-button{
+  padding: 8px 7px;
+  font-size: 16px;
+}
+.gemini{
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.chatgpt{
+  margin-right: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.a{
+  margin-right: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.b{
+  margin-right: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.c{
+  margin-right: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+button{
+  cursor: pointer;
+}
+.next-button:hover{
+ opacity: 0.8;
+}
+.next-button:active{
+  opacity: 0.3;
+}
