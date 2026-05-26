@@ -1,0 +1,43 @@
+.request {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  margin-top: 0px;
+  margin-bottom: 25px;
+}
+
+.pickup {
+  display: block;
+  border: none;
+  background-color: rgb(233, 229, 229);
+  padding: 15px;
+  width: 380px;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.destination {
+  display: block;
+  border: none;
+  background-color: rgb(233, 229, 229);
+  padding: 15px;
+  width: 380px;
+  margin-bottom: 30px;
+}
+
+.request-now-button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  border-style: solid;
+}
+
+.schedule-for-later {
+  background-color: rgb(233, 229, 229);
+  color: black;
+  padding: 15px 20px;
+  border: none;
+  margin-left: 10px;
+  font-size: 14px;
+
+}

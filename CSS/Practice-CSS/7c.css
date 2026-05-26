@@ -1,0 +1,17 @@
+.text-box,.google-logo{
+display: block;
+}
+.google-logo{
+width: 150px;
+height: 50px;
+margin-left: 130px;
+margin-bottom: 0;
+object-fit: cover;
+}
+.text-box {
+  border: none;
+  width: 400px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 69px;
+  padding: 9px;
+}
