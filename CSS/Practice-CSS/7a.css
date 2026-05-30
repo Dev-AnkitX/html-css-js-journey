@@ -1,7 +1,9 @@
 .name,
 .email{
 display: block;
+border-style: solid;
 }
 .name{
   margin-bottom: 5px;
+  border-style: solid;
 }

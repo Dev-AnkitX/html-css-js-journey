@@ -1,0 +1,42 @@
+.card {
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.6);
+  width: 200px;
+  height: 325px;
+  border-radius: 6px;
+  display: inline-block;
+}
+
+.profile-pic {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 0px;
+}
+
+.name {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 0px;
+  margin-left: 8px;
+  margin-top: 8px;
+}
+
+.mutual {
+  font-family: arial;
+  font-size: 16px;
+  margin-bottom: 0px;
+  margin-top: 5px;
+  margin-left: 8px;
+}
+
+.add-friend {
+  color: white;
+  background-color: rgb(62, 62, 204);
+  border: none;
+  padding: 8px 19px;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-top: 13px;
+  margin-left: 8px;
+}

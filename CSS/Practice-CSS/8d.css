@@ -1,0 +1,21 @@
+p{
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.install{
+font-family: arial;
+font-weight: bold;
+font-size: 24px;
+margin-bottom: 10px;
+color: white;
+}
+.description{
+font-family: arial;
+color: gray;
+}
+.youtube-music{
+background-color: black;
+width: 360px;
+padding:20px 15px;
+}
