@@ -1,0 +1,18 @@
+.grid-add{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 10px;
+}
+.div1{
+  background-color: lightpink;
+}
+.div2{
+  background-color: lightpink;
+}
+.div3{
+  background-color: lightpink;
+}
+.div4{
+  background-color: lightpink;
+}
