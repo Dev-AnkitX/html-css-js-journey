@@ -3,12 +3,11 @@ p{
   margin-top: 0;
   margin-bottom: 0;
 }
+body{
+  margin: 0;
+}
 .thumbnails {
   width: 100%;
-}
-
-.search-bar {
-  display: block;
 }
 .video-title{
   margin-top: 0;
@@ -28,7 +27,6 @@ grid-template-columns: 50px 1fr;
 .thumbnail-row{
   margin-bottom: 12px;
 }
-
 .video-author
 .video-stats{
   font-size: 12px;
@@ -43,4 +41,27 @@ grid-template-columns: 50px 1fr;
   column-gap: 16px;
   row-gap: 40px;
 }
-
+.header{
+  height: 55px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.search-bar {
+  display: block;
+}
+.left-section{
+background-color: lightblue;
+width: 150px;
+}
+.middle-section{
+  background-color: lightpink;
+  flex: 1;
+margin-left:70px;
+margin-right: 35px;
+max-width: 500px;
+}
+.right-section{
+background-color: lightblue;
+width: 200px;
+}
